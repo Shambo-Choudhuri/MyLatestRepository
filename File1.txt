@@ -17,5 +17,8 @@ Ami Khub Taratari Bari Jabo
 
 10 100 1000
 
+master()
+{
+}
 
 
